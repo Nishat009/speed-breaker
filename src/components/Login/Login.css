@@ -1,0 +1,15 @@
+.buttonStyle{
+    background-color: maroon;
+}
+.login{
+    background-color: maroon;
+    
+}
+.create{
+    background-color: black;
+    color: white;
+}
+.photo{
+ height: 30px;
+ width: 30px;
+}

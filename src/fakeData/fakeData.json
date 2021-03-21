@@ -1,0 +1,52 @@
+[{
+    "id": 1,
+    "vehicleName": "BIKE",
+    "vehicleSeat1":"2",
+    "vehicleSeat2":"4",
+    "vehicleSeat3":"6",
+    "ticketPrice1":"50",
+    "ticketPrice2":"100",
+    "ticketPrice3":"150",
+    "vehicleImage": "https://img.etimg.com/thumb/msid-75572296,width-640,resizemode-4,imgsize-507941/bmw-ninet.jpg",
+    "from":"dhaka",
+    "to":"sirajganj"
+  },
+  {
+  
+    "id": 2,
+    "vehicleName": "CAR",
+    "vehicleSeat1":"2",
+    "vehicleSeat2":"4",
+    "vehicleSeat3":"6",
+    "ticketPrice1":"150",
+    "ticketPrice2":"300",
+    "ticketPrice3":"450",
+    "vehicleImage": "https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364",
+    "from":"dhaka",
+    "to":"sirajganj"
+    
+  }, {
+    "id": 3,
+    "vehicleName": "BUS",
+    "vehicleSeat1":"2",
+    "vehicleSeat2":"4",
+    "vehicleSeat3":"6",
+    "ticketPrice1":"250",
+    "ticketPrice2":"500",
+    "ticketPrice3":"750",
+    "vehicleImage": "https://www.sustainable-bus.com/wp-content/uploads/2019/12/scania-bus4.jpg",
+    "from":"dhaka",
+    "to":"sirajganj"
+  }, {
+    "id": 4,
+    "vehicleName": "TRAIN",
+    "ticketPrice1":"550",
+    "ticketPrice2":"1050",
+    "ticketPrice3":"1250",
+    "vehicleSeat1":"2",
+    "vehicleSeat2":"4",
+    "vehicleSeat3":"6",
+    "vehicleImage": "https://media.cntraveler.com/photos/573c78f7a4dfc1c77e7f1764/master/pass/e320_cr_Siemens.jpg",
+    "from":"dhaka",
+    "to":"sirajganj"
+  }]
